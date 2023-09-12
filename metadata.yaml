@@ -1,0 +1,36 @@
+_repo: H-van-Brakel-Ing-BOW-b-Oorspronkelijke-roman_71591
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Daum, P. A. (Paul Adriaan)
+    aliases:
+    - Daum, Paul Adriaan
+    - Maurits
+    - Daum, Paulus Adrianus
+    birthdate: 1849
+    deathdate: 1898
+    gutenberg_agent_id: '53277'
+    url: http://www.gutenberg.org/2009/agents/53277
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paulus_Adrianus_Daum
+    - https://nl.wikipedia.org/wiki/Paul_Adriaan_Daum
+description: ''
+gutenberg_issued: '2023-09-07'
+identifiers:
+  gutenberg: '71591'
+language: nl
+pgterms:marc904: https://books.google.com/books?id=ABzEuD1YBtMC
+pgterms:marc905: 20180929114914mauritspse
+pgterms:marc906: '1875'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from scanned
+  images of public domain material from the Google Books project.)
+publication_note: '  $aLeiden :$bA.W. Sijthoff, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'H. van Brakel, Ing. B.O.W. : $b Oorspronkelijke roman'
+url: http://www.gutenberg.org/ebooks/71591
