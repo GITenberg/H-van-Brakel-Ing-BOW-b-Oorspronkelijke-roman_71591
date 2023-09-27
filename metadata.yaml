@@ -1,5 +1,8 @@
 _repo: H-van-Brakel-Ing-BOW-b-Oorspronkelijke-roman_71591
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71591-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Daum, P. A. (Paul Adriaan)
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paulus_Adrianus_Daum
     - https://nl.wikipedia.org/wiki/Paul_Adriaan_Daum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71591#H-van-Brakel-Ing-BOW-b-Oorspronkelijke-roman
 gutenberg_issued: '2023-09-07'
 identifiers:
   gutenberg: '71591'
